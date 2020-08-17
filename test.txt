@@ -3,3 +3,4 @@ aaaa
 日本語OK　tukai 
 git commet --amend syuusei
 master branch作業
+Aさん変更追記しました
