@@ -1,3 +1,4 @@
 .ipynb_checkpoints
 anaimal_dataset2/images
 *.ipynb
+secret_key.txt
